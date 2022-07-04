@@ -14,4 +14,3 @@ def checkout(skus):
     Total = A_SO*130 + A_SI*50 + B_SO*45 + B_SI*30 + C*20 + D*15
     return (Total)
 
-
