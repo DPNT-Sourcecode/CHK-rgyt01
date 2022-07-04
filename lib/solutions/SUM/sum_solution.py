@@ -1,3 +1,4 @@
 # noinspection PyShadowingBuiltins,PyUnusedLocal
 def compute(x, y):
-    sum (x,y) -> @return;
+    n = sum([x,y])
+    print(n)
